@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhengliw
 - 👀 I’m interested in coding and.... non-sense stuff...
-- 🌱 I’m currently learning Python...?
+- 🌱 I’m currently learning Docker and Backend-ing
 - 💞️ I’m looking to collaborate on ... idk?
 - 📫 How to reach me: DON'T! I'm not old enough to meet random people on the internet.
 
