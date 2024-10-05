@@ -1,27 +1,39 @@
-- 👋 Hi, I’m @zhengliw
-- 👀 I’m interested in coding and.... non-sense stuff...
-- 🌱 I’m currently learning Docker and Backend-ing
-- 💞️ I’m looking to collaborate on ... idk?
-- 📫 How to reach me: DON'T! I'm not old enough to meet random people on the internet.
+# Create, share, collaborate.
 
-<!---
-zhengliw/zhengliw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my profile, feel free to look around!
 
+Not currently doing much on GitHub, except for occasionally reporting bugs and
+working on some smaller personal projects... That are mostly either unbegun or
+unfinished. Or both actually :P
 
-Nice template, GitHub!
+*Stuff I've messed with...*
 
-Anyways!
+I'm not that of an expert on most of the things listed here, but I've got a
+general idea how to use these things. I've probably touched on a lot more
+things, but don't quite remember all of them anymore :( This list will be kept
+updated...
 
-Hi and welcome to my profile. Feel free to take a look at my unfinished and unbegun projects. I am still learning, but I've been picking up new knowledge almost every day and trying out new stuff since 2020. I'm always down for a new challenge.
+- 🌏 Languages 
+    - Python
+    - C 
+    - HTML 
+    - CSS 
+    - Dart
+- 🛠️ Toolkits and frameworks
+    - Python
+        - Flask
+        - SQLAlchemy
+    - Dart
+        - Flutter
+- 📖 General concepts
+    - HTTP
+        - REST APIs
+    - Relational databases
+    - Containerization
+    - Networking basics
+        - Some very basic stuff, mostly OSI layers 1 - 3, beyond those... I've
+          no idea :(
+        - IPv4 and IPv6
 
-- 🌍 The languages I speak: C, Python, Markdown (okay I know)
-- 😎 What I do: Fun projects and research to learn new standards and skills
-- 😢 What I do not do: Professional coding. Please, I'm just a free time coder... lol.
+Keep climbing. Happy coding!
 
-当然了，也欢迎中文交流取得联系。
-
-Yeah that's it. Check my profile and maybe leave a follow.
-
-Oh wait this is GitHub not YouTube
