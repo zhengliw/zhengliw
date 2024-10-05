@@ -35,5 +35,8 @@ updated...
           no idea :(
         - IPv4 and IPv6
 
+One thing I found myself spending a lot of time on is self-hosting... You can do
+so much!
+
 Keep climbing. Happy coding!
 
