@@ -48,15 +48,15 @@ updated...
 One thing I found myself spending a lot of time on recently is self-hosting...
 You can do and learn so much at the same time!
 
-Active used stuff are marked in bold!
+Actively used stuff are marked in italic!
 
 - 😎 Self-hosted applications
     - [Jellyfin](https://jellyfin.org/)
-    - [**Nextcloud**](https://nextcloud.com/)
-    - [**Home Assistant**](https://www.home-assistant.io/)
-    - [**Frigate**](https://frigate.video/)
-    - [**WordPress**](https://wordpress.org/)
-    - [**AdGuard Home**](https://adguard.com/en/adguard-home/overview.html)
+    - [*Nextcloud*](https://nextcloud.com/)
+    - [*Home Assistant*](https://www.home-assistant.io/)
+    - [*Frigate*](https://frigate.video/)
+    - [*WordPress*](https://wordpress.org/)
+    - [*AdGuard Home*](https://adguard.com/en/adguard-home/overview.html)
 
 Keep climbing. Happy coding!
 
