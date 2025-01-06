@@ -58,5 +58,24 @@ Actively used stuff are marked in italic!
     - [*WordPress*](https://wordpress.org/)
     - [*AdGuard Home*](https://adguard.com/en/adguard-home/overview.html)
 
+Before I forget - here's my PGP public key, with which I sign most of my commits
+with. That way you can be sure that it's really me who wrote that bad code. :)
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZzYsLRYJKwYBBAHaRw8BAQdAivuUOBt0/SPu4LcSQ0h4G5dIQzcQ860Y4tLE
+jpD9lP20I1poZW5nbGkgV2FuZyA8emhlbmdsaXdAZm94bWFpbC5jb20+iJMEExYK
+ADsWIQTgLhoNmF47G8gqOHPlC2vllsbtiwUCZzYsLQIbAwULCQgHAgIiAgYVCgkI
+CwIEFgIDAQIeBwIXgAAKCRDlC2vllsbti74sAP9B0J26HcDhVHpVZtho90Ik9U+3
+W0nrTeAbZPtl3HwfywD/bssUUGlUZSRWSKYXRhdeZF2lYarM4eEyGFcGRuiTrAm4
+OARnNiwtEgorBgEEAZdVAQUBAQdA07i59QM6U/BRbTzzReXl6vMinG1LVpjfmgSO
+8gx5siYDAQgHiHgEGBYKACAWIQTgLhoNmF47G8gqOHPlC2vllsbtiwUCZzYsLQIb
+DAAKCRDlC2vllsbti/rFAQDKIFxya2wmMPQXRP5BUGfoAi8HqL5RWqwkRsPanow+
+mwEAxSLNHh0P29CwP3NTJ1QWKO96pbPURmmVlscJ6o0gfwM=
+=/WkS
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
 Keep climbing. Happy coding!
 
